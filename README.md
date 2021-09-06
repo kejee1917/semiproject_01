@@ -8,7 +8,7 @@
 
 ----
 
-## 프로젝트 관련 
+## 프로젝트 기획 단계
 <details>
 <summary>개발 환경 및 개발 일정</summary>
 <div markdown="1">
@@ -37,6 +37,10 @@
 </div>
 </details>
 
+
+
+
+-------
 ## 맡은 기능 상세 기술
 <details>
 <summary>관리자 페이지</summary>
